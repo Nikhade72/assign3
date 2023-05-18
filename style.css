@@ -9,6 +9,7 @@
         background-image: url(butterfly_flower_black_background_74198_1366x768.jpg);
         background-size: cover;
         background-position: fixed;
+        background-repeat: no-repeat;
     }
     
 .form {
