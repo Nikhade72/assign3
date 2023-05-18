@@ -6,7 +6,7 @@
     }
     
     .index{
-        background-image: url(/case3/butterfly_flower_black_background_74198_1366x768.jpg);
+        background-image: url(butterfly_flower_black_background_74198_1366x768.jpg);
         background-size: cover;
         background-position: fixed;
     }
@@ -64,7 +64,7 @@
 }
 
 .homepage {
-    background-image: url(/case3/6ca8566eb0a988d9a14cce2ab73237af.jpg);
+    background-image: url(6ca8566eb0a988d9a14cce2ab73237af.jpg);
     background-size: cover;
     background-position: fixed;
     background-repeat: no-repeat;
@@ -84,7 +84,7 @@
 }
 
 .listpage {
-    background-image: url(/case3/branch_leaves_drops_407139_1366x768.jpg);
+    background-image: url(branch_leaves_drops_407139_1366x768.jpg);
     background-size: cover;
     background-position: fixed;
     background-repeat: no-repeat;
